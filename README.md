@@ -1,2 +1,3 @@
 # hello_world
-a tutorial program
+a tutorial program /
+Hi I am Leigh and I am cool.
